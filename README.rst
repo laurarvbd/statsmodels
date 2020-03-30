@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fstatsmodels.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fstatsmodels?ref=badge_shield)
+
 |Travis Build Status| |Azure CI Build Status| |Appveyor Build Status| |Coveralls Coverage|
 
 About statsmodels
@@ -181,3 +183,7 @@ https://github.com/statsmodels/statsmodels/issues
    :target: https://ci.appveyor.com/project/josef-pkt/statsmodels/branch/master
 .. |Coveralls Coverage| image:: https://coveralls.io/repos/github/statsmodels/statsmodels/badge.svg?branch=master
    :target: https://coveralls.io/github/statsmodels/statsmodels?branch=master
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fstatsmodels.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fstatsmodels?ref=badge_large)
